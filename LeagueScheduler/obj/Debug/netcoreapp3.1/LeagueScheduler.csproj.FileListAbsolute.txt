@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.exe
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.deps.json
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.runtimeconfig.json
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.dll
+C:\Users\HP\source\repos\LeagueScheduler\bin\Debug\netcoreapp3.1\LeagueScheduler.pdb
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.AssemblyInfo.cs
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.dll
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.pdb
+C:\Users\HP\source\repos\LeagueScheduler\obj\Debug\netcoreapp3.1\LeagueScheduler.genruntimeconfig.cache
